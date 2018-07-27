@@ -1,6 +1,6 @@
 {
   "title": "HOF",
-  "child": [
+  "children": [
     {
       "title": "Home"
     },
@@ -21,7 +21,7 @@
     },
     {
       "title": "About",
-      "child": [
+      "children": [
         {
           "title": "profile"
         },
